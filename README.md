@@ -7,5 +7,8 @@
 ![Spring 5.0](https://img.shields.io/badge/spring-5.1.0.RELEASE-blue.svg?style=popout-square)
 
 - spring-ioc
+- spring-boot-eureka-server
+- spring-boot-eureka-client
+- clyoudu-spring-boot-starter
 
 
